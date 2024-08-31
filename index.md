@@ -13,3 +13,7 @@ To clone this repository on your local computer
 git clone https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-tobilobasalawu.git
 ```
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
